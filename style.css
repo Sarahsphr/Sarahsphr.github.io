@@ -106,3 +106,20 @@ button:hover{
     background:#90e0ef;
     color:#0f3057;
 }
+
+.tech-list{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+    margin-top:15px;
+    margin-bottom:15px;
+}
+
+.tech-list span{
+    background:#e7f1f7;
+    color:#1b4965;
+    padding:6px 12px;
+    border-radius:20px;
+    font-size:14px;
+    font-weight:bold;
+}
