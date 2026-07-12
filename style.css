@@ -76,5 +76,17 @@ button:hover{
     background:#16384d;
 }
 
+.cv-button{
+    display:inline-block;
+    background:#ffffff;
+    color:#1b4965;
+    text-decoration:none;
+    padding:12px 24px;
+    border-radius:6px;
+    font-weight:bold;
+}
 
+.cv-button:hover{
+    background:#e6f2f7;
+}
 
