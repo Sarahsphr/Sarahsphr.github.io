@@ -90,3 +90,19 @@ button:hover{
     background:#e6f2f7;
 }
 
+.project-button{
+    display:inline-block;
+    margin-top:15px;
+    padding:10px 20px;
+    background:#1b4965;
+    color:white;
+    text-decoration:none;
+    border-radius:6px;
+    font-weight:bold;
+    transition:0.3s;
+}
+
+.project-button:hover{
+    background:#90e0ef;
+    color:#0f3057;
+}
