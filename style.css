@@ -116,6 +116,7 @@ button:hover{
 }
 
 .tech-list span{
+    display:inline-block;
     background:#e7f1f7;
     color:#1b4965;
     padding:6px 12px;
